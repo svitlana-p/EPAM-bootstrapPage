@@ -1,0 +1,10 @@
+.container-fluid .navbar-brand  {
+    color:red;
+}
+.background {
+    background-image: url(../img/header-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
